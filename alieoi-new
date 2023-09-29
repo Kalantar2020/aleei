@@ -1,4 +1,4 @@
-aleo smart contract
+haleo smart contract
 
 
 نصب پیش نیازها 
@@ -56,4 +56,4 @@ PRIVATEKEY=""
 
 RECORD=""
 
-snarkos developer deploy "${APPNAME}.aleo" --private-key "${PRIVATEKEY}"
+snarkos developer deploy "${APPNAME}.aleo" --private-key "
